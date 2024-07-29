@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @MoinZakir
-- 👀 I’m interested in learning automations. 
-- 🌱 I’m currently learning cloud computing.
-- 💞️ I’m looking to collaborate on whatever I can help on. 
-- 📫 How to reach me qureshimoin998@gmail.com
+👋 Hi there! I'm Moin Qureshi, a dedicated and passionate tech enthusiast with a strong foundation in mechatronics and a keen interest in cloud computing, DevOps, IoT, and AI.
 
-<!---
-MoinZakir/MoinZakir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I Do:
+
+Cloud Computing & DevOps: Building scalable and reliable systems using AWS, Azure, and GCP, automating deployments, and improving CI/CD pipelines.
+IoT Development: Integrating sensors and devices with cloud services to create intelligent and connected solutions.
+AI & Machine Learning: Developing machine learning models and AI solutions to enhance the capabilities of IoT and other applications.
+
+🌟 Skills:
+
+Cloud Platforms: AWS
+DevOps Tools: Docker, Kubernetes, Jenkins, Terraform
+Programming Languages: Python, C/C++, Matlab
+IoT Platforms: Arduino, Raspberry Pi, MAX78000
+AI Frameworks: TensorFlow, PyTorch
+
+🎯 Goals:
+
+To become an expert in integrating IoT with AI and cloud technologies.
+To work on innovative projects that make a significant impact.
+To continuously learn and contribute to the tech community.
